@@ -1,5 +1,5 @@
 import React, { createContext } from 'react'
-import Phon from './companant/phon';
+import Phon from './assets/Phon';
 const Siva = createContext();
 function App() {
    const siva={
